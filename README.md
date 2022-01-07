@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Oscar Gil 👋
+### 🌱 I’m currently learning Data Science, Machine Learning, R, Python
+### 💬 Ask me about using SQL (SSRS, SSIS) or Excel for manipulating and automating data
+### 👯 I’m looking to collaborate on data science projects, excited about learning how data is used in different industries
+### 📫 How to reach me: https://www.linkedin.com/in/oscar-gil
 
 <!--
 **OscarG-DataSci/OscarG-DataSci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
