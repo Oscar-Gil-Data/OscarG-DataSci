@@ -1,5 +1,5 @@
 ### Hi, I'm Oscar Gil 👋
-### 🌱 Learning Data Science, Machine Learning, R, Python
+### 🌱 Learning Data Science, Machine Learning, R, Python, dbt, BigQuery, AWS
 ### 💬 Ask me about using SQL, SSRS, SSIS or Excel for manipulating and automating data
 ### 👯 I’m looking to collaborate on data science projects, excited about learning how data is used in different industries
 ### 📫 How to reach me: https://www.linkedin.com/in/oscar-gil
